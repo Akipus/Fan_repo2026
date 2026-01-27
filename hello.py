@@ -8,3 +8,4 @@ print("Hello "\name\"")
 print("Hello "\friend\"")
 #There is much to talk about before the end of the year.
 >>>>>>> refs/remotes/origin/main
+print("Hello Wrold!")
